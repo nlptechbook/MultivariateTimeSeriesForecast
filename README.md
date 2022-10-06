@@ -410,7 +410,7 @@ actual.plot(label="actual")
 pred.plot(label="forecast")
 plt.legend()
 ```
-<img src="https://github.com/nlptechbook/MultivariateTimeseriesForecast/blob/main/forecast.png" width="100px"/>
+<img src="https://github.com/nlptechbook/MultivariateTimeseriesForecast/blob/main/forecast.png" width="500px"/>
 
 Теперь сделаем предсказание на март. Начнем с создания модели:
 ```python
